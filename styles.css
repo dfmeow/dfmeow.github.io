@@ -22,6 +22,12 @@ body {
 	margin-bottom: 500rem;
 }
 
+
+
+
+.page-2 {
+	background-color: #22577A;
+}
 ::-webkit-scrollbar {
   width: 10px;
 }
@@ -29,6 +35,5 @@ body {
 ::-webkit-scrollbar-thumb {
   background: #888;
 }
-::-webkit-scrollbar-track {
-  position:static
-}
+
+
